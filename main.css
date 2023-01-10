@@ -1,0 +1,32 @@
+header {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+body { 
+  background-color: tan
+}
+
+h2 {
+  color: pink;
+}
+
+#cpi {
+  font-family: 'Courier New';
+  border: 5px dotted orange
+}
+
+#bucks {
+  font-family: 'Arial Narrow';
+  border: 1px solid yellow;
+}
+
+#haven {
+  font-family: 'Verdana';
+  border: 10px dashed black;
+}
+
+#adt {
+  font-family: 'Times New Roman';
+  border: 2px dashed pink;
+}
